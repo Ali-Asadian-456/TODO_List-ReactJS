@@ -9,9 +9,7 @@ A simple and intuitive TODO list application built with ReactJS. This applicatio
 - **Mark as Complete**: Track your progress by marking tasks as complete.
 - **Responsive Design**: The application is designed to work on both desktop and mobile devices.
 
-## Demo
 
-[Live Demo](https://your-demo-link.com) (Replace with your actual demo link)
 
 ## Getting Started
 
@@ -29,15 +27,15 @@ To run the TODO list application locally, follow these steps:
 
 3. **Install dependencies**:
    ```bash
-   npm install
+   npm run dev
    ```
 
 4. **Start the application**:
    ```bash
-   npm start
+   npm 
    ```
 
-5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
+5. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the application.
 
 ## Technologies Used
 
@@ -64,9 +62,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
