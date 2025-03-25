@@ -27,12 +27,12 @@ To run the TODO list application locally, follow these steps:
 
 3. **Install dependencies**:
    ```bash
-   npm run dev
+   npm install
    ```
 
 4. **Start the application**:
    ```bash
-   npm 
+    npm run dev
    ```
 
 5. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the application.
